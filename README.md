@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @piyush00721
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Angular Js
 
 <!---
 piyush00721/piyush00721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
